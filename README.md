@@ -25,12 +25,20 @@ Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceito
 - O sistema gera um número secreto aleatório entre **1 e o limite definido**.
 - O usuário digita um número no campo de entrada.
 - O jogo informa se o número secreto é **maior ou menor** que o chute.
-- O sistema valida:
-   - Campo vazio
-   - Valores fora do limite
-   - Valores inválidos (decimais ou negativos)
 - Ao acertar, o jogo exibe a quantidade de tentativas utilizadas.
-- O botão **Reiniciar** permite começar uma nova rodada com um novo número secreto.
+- O botão **Chutar** permite começar uma nova rodada com um novo número secreto.
+
+## Funcionalidades adicionais implementadas
+
+Além do que foi proposto no curso, foram implementadas funcionalidades extras por iniciativa própria, com o objetivo de tornar o jogo mais completo:
+
+- Validação de campo vazio
+- Tratamento de valores fora do limite permitido
+- Validação de valores inválidos, como números decimais ou negativos
+- Mensagens de erro mais claras e informativas para o usuário
+- Melhoria na lógica de entrada de dados
+
+Essas validações não faziam parte do conteúdo original do curso e foram adicionadas como forma de aprofundar os conhecimentos em JavaScript.
 
 ## Tecnologias utilizadas
 
@@ -38,7 +46,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceito
  - HTML
  - CSS
  - Biblioteca ResponsiveVoice (para feedback de voz)
-
 
 ## Objetivo do projeto
 
