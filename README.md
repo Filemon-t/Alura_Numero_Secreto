@@ -40,6 +40,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados os seguintes conceito
  - Biblioteca ResponsiveVoice (para feedback de voz)
 
 
-## 🚀 Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto tem caráter **educacional**, com foco no aprendizado prático de lógica de programação, funções, listas e interação com o usuário, servindo como base para projetos mais complexos no futuro.
